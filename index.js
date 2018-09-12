@@ -7,4 +7,12 @@ typeof "const currentUser = 'Grace Hopper';";
 "const currentUser = 'Grace Hopper';".length;
 //=> 35
  
+ const currentUser = 'Edsger Dijkstra';
+ 
+...
+ 
+const shortGreeting = ... ;
+ 
+shortGreeting;
+//=> "Welcome, E!"
 currentUser;
